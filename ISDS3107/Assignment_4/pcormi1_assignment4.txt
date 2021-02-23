@@ -1,0 +1,4 @@
+The average city mileage for all vehicles is: 16.858974358974358
+The average highway mileage for all vehicles is: 23.44017094017094
+The average highway mileage for all Ford vehicles is: 19.36
+The average city mileage for all SUV vehicles is: 13.5
